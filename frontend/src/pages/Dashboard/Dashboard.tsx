@@ -28,14 +28,14 @@ export default function Dashboard() {
   const user: UserInfoType = {
     name: 'Kaique Steck', 
     role: 'Administrador',
-    profilePhoto: './src/assets/profilePhoto.png'
+    profilePhoto: '/assets/profilePhoto.png'
   };
 
   return (
     <MainDiv>
       <LeftMenu>
         <div style={{display: "flex", flexDirection: "column"}}>
-          <img src="./src/assets/tropaDigital.png" alt="" style={{width: "10.0625rem", height: "1.5625rem", marginBottom: "1rem"}} />
+          <img src='/assets/tropaDigital.png' alt="" style={{width: "10.0625rem", height: "1.5625rem", marginBottom: "1rem"}} />
           <span style={{fontSize: "0.5625rem",  fontWeight: "800", color: "#A3A3A3", marginBottom: '0.5rem', marginLeft: "0.8rem", letterSpacing: "0.2rem"}}>MENU</span>
           <div style={{gap: "0.3rem", display: "flex", flexDirection: "column", height: "2rem"}}>
             {itemsTop.map((item, index) => (

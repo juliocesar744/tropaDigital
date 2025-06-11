@@ -16,7 +16,7 @@ export default function Login() {
         <RightDiv>
           <FormDiv>
             <div>
-              <img src="../src/assets/tropaDigital.png" alt="Logo Tropa Digital"/>
+              <img src='/assets/tropaDigital.png' alt="Logo Tropa Digital"/>
             </div>
             <div>
               <h1 style={{color:"#CC6237", fontSize: "26px", lineHeight: "15px", fontWeight: "700", marginBottom: 0}}>Bem-vindo de volta</h1>
@@ -37,7 +37,7 @@ export default function Login() {
           </FormDiv>
         </RightDiv>
         <LeftDiv>
-            <PersonImg src="../src/assets/loginPerson.png" alt="Logo Tropa Digital" />
+            <PersonImg src='/assets/loginPerson.png' alt="Logo Tropa Digital" />
         </LeftDiv>
       </LoginDiv>
     </MainDiv>

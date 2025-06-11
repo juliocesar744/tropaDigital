@@ -1,17 +1,13 @@
 ﻿# 🧪 Desafio Frontend – Tropa Digital
 Este projeto foi desenvolvido como parte do processo seletivo para a vaga de Desenvolvedor(a) Frontend na Tropa Digital.
 
-🔗 Link do projeto hospedado
-Acesse o projeto aqui
 
 🚀 Tecnologias utilizadas
-Framework: React (ou Next.js)
+Framework: React
 
-Estilização: Styled Components (ou SCSS, dependendo do que você escolher)
+Estilização: Styled Components 
 
-Roteamento: React Router DOM (ou rotas nativas do Next.js)
-
-Hospedagem: Vercel (ou Netlify/Render/etc.)
+Roteamento: React Router DOM 
 
 🔒 Funcionalidades
 Tela de Login funcional (fluxo simulado, sem backend)

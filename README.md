@@ -30,3 +30,4 @@ hooks/ – Lógica de autenticação (simulada)
 🖼️ Layout
 O layout base foi fornecido pela equipe da Tropa Digital no Figma:
 https://www.figma.com/design/xzsmAYKHPRaqMTNBBolJQH/Teste-FRONTEND---Tropa-Digital
+Link do layout: https://tropa-digital-git-main-juliocesar744s-projects.vercel.app
